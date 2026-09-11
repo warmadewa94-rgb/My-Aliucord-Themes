@@ -1,16 +1,16 @@
 {
     "manifest": {
         "version": "1.0.0",
-        "author": "Sakiro#6328",
+        "author": ".stargazerr",
         "license": "CEA",
-        "name": "Ye Theme"
+        "name": "Ç†"
     },
     "background": {
         "overlay_alpha": 120,
-        "url": "https:\/\/github.com\/CaioAlbuquerque123\/Separated-fonts-and-sounds-for-my-themes\/blob\/main\/WallpaperDog-17205054-1.jpg?raw=true"
+        "url": "https://raw.githubusercontent.com/warmadewa94-rgb/My-Aliucord-Themes/refs/heads/main/%C3%87%E2%80%A0._edited.png"
     },
     "fonts": {
-        "*": "https:\/\/github.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/raw\/main\/Bi_polarHandwriting-Regular_EXCLUSIVE-2.ttf"
+        "*": "https://github.com/warmadewa94-rgb/My-Aliucord-Themes/raw/refs/heads/main/YDMyungjo%20540%20Pro.ttf"
     },
     "simple_colors": {
         "active_channel": -1977833094,
