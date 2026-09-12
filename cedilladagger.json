@@ -1,9 +1,9 @@
 {
     "manifest": {
-        "version": "1.0.3",
+        "version": "1.0.4",
         "author": ".stargazerr",
         "license": "CEA",
-        "name": "Lily Chou-Chou (Transparent Background)"
+        "name": "Lily Chou-Chou (Rice Field Palette)"
     },
     "background": {
         "overlay_alpha": 0,
@@ -13,34 +13,34 @@
         "*": "https:\/\/github.com\/warmadewa94-rgb\/My-Aliucord-Themes\/raw\/refs\/heads\/main\/Dutch%20Mediaeval%20Book%20W01%20Reg.ttf"
     },
     "simple_colors": {
-        "active_channel": -5138177,
-        "accent": -5138177,
-        "mention_highlight": 841021439,
+        "active_channel": -9253337,
+        "accent": -9253337,
+        "mention_highlight": 845239326,
         "background": 0,
         "background_secondary": 0
     },
     "colors": {
-        "brand": -5138177,
-        "brand_new_500": -5138177,
+        "brand": -9253337,
+        "brand_new_500": -9253337,
         "primary_dark_400": 0,
         "primary_dark_360": 0,
-        "uikit_btn_compound_color_selector_dark": -5138177,
+        "uikit_btn_compound_color_selector_dark": -9253337,
         "primary_dark_300": 0,
-        "uikit_btn_compound_color_selector_light": -3881473,
+        "uikit_btn_compound_color_selector_light": -6303273,
         "uikit_settings_item_text_color_dark": -1,
         "uikit_settings_item_text_color_light": -1,
-        "abc_tint_switch_track": -1291845633,
-        "link": -3881473,
-        "link_500": -3881473,
+        "abc_tint_switch_track": -1202882208,
+        "link": -6303273,
+        "link_500": -6303273,
         "primary_dark_200": -1,
         "white_500": -1
     },
     "drawable_tints": {
-        "ic_sidebar_notifications_on_dark_24dp": -5138177,
-        "ic_sidebar_notifications_off_dark_24dp": -6710887,
-        "ic_sidebar_pins_off_dark_24dp": -6710887,
-        "ic_sidebar_pins_on_dark_24dp": -5138177,
-        "ic_thread": -3881473
+        "ic_sidebar_notifications_on_dark_24dp": -9253337,
+        "ic_sidebar_notifications_off_dark_24dp": -8546153,
+        "ic_sidebar_pins_off_dark_24dp": -8546153,
+        "ic_sidebar_pins_on_dark_24dp": -9253337,
+        "ic_thread": -6303273
     },
     "raws": {}
 }
