@@ -1,9 +1,9 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": ".stargazerr",
         "license": "CEA",
-        "name": "Lily Chou-Chou (Ether)"
+        "name": "Cedilla Dagger"
     },
     "background": {
         "overlay_alpha": 180,
@@ -13,34 +13,34 @@
         "*": "https:\/\/github.com\/warmadewa94-rgb\/My-Aliucord-Themes\/raw\/refs\/heads\/main\/Dutch%20Mediaeval%20Book%20W01%20Reg.ttf"
     },
     "simple_colors": {
-        "active_channel": -13636259,
-        "accent": -13636259,
-        "mention_highlight": 1059530496,
-        "background": -16119286,
-        "background_secondary": -15591920
+        "active_channel": -10092289,
+        "accent": -10092289,
+        "mention_highlight": 847248127,
+        "background": -15658735,
+        "background_secondary": -14606037
     },
     "colors": {
-        "brand": -13636259,
-        "brand_new_500": -13636259,
-        "primary_dark_400": -15591920,
-        "primary_dark_360": -15197155,
-        "uikit_btn_compound_color_selector_dark": -13636259,
-        "primary_dark_300": -14407133,
-        "uikit_btn_compound_color_selector_light": -16723201,
-        "uikit_settings_item_text_color_dark": -1973791,
-        "uikit_settings_item_text_color_light": -1973791,
-        "abc_tint_switch_track": -1202882208,
-        "link": -16723201,
-        "link_500": -16723201,
-        "primary_dark_200": -1973791,
-        "white_500": -1973791
+        "brand": -10092289,
+        "brand_new_500": -10092289,
+        "primary_dark_400": -15658735,
+        "primary_dark_360": -14606037,
+        "uikit_btn_compound_color_selector_dark": -10092289,
+        "primary_dark_300": -13487550,
+        "uikit_btn_compound_color_selector_light": -12547146,
+        "uikit_settings_item_text_color_dark": -1184275,
+        "uikit_settings_item_text_color_light": -1184275,
+        "abc_tint_switch_track": -1200928513,
+        "link": -12547146,
+        "link_500": -12547146,
+        "primary_dark_200": -1184275,
+        "white_500": -1184275
     },
     "drawable_tints": {
-        "ic_sidebar_notifications_on_dark_24dp": -13636259,
-        "ic_sidebar_notifications_off_dark_24dp": -10323363,
-        "ic_sidebar_pins_off_dark_24dp": -10323363,
-        "ic_sidebar_pins_on_dark_24dp": -13636259,
-        "ic_thread": -16723201
+        "ic_sidebar_notifications_on_dark_24dp": -10092289,
+        "ic_sidebar_notifications_off_dark_24dp": -7637894,
+        "ic_sidebar_pins_off_dark_24dp": -7637894,
+        "ic_sidebar_pins_on_dark_24dp": -10092289,
+        "ic_thread": -12547146
     },
     "raws": {}
 }
